@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Ved Timbadiya</h1>
-<h3 align="center">A Curious Engineer from India with interests in Backend development and Competitive Programming</h3>
+<h3 align="center">An Engineer from India with interests in Backend development and Competitive Programming</h3>
 
 -   🌱 I’m currently learning **Full stack Development**
 
